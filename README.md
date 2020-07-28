@@ -6,3 +6,5 @@ My self- Ujjwal Saxena.
 Internship Title:- RSIP Career Basic AI 081.
 
 Project ID:- SPS_PRO_180
+
+use analysis of aazon cell phone file.docx for complete documentation
